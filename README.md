@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smithdesigner
-- 👀 I’m interested in user experience design, cloud services, and human computer interaction.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on hackatons
+- 👀 I’m interested in programming, machine learning, and theory.
+- 🌱 I’m currently pursuing my Master's in Computer Science at DePaul University.
+- 💞️ I’m looking to collaborate on hackathons.
 - 📫 How to reach me...right here!
 
 <!---
