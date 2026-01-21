@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smithdesigner
 - 👀 I’m interested in programming, machine learning, and theoretical computer science.
 - 🌱 I’m currently pursuing my Master's in Computer Science at DePaul University.
-- 💞️ I’m looking to collaborate on hackathons.
+- 🧠 I’m looking to collaborate on hackathons.
 - 📫 How to reach me...right here!
 
 <!---
