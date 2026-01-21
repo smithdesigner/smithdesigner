@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @smithdesigner
-- 👀 I’m interested in programming, machine learning, and theoretical computer science.
-- 🌱 I’m currently pursuing my Master's in Computer Science at DePaul University.
-- 🧠 I’m looking to collaborate on hackathons.
-- 📫 How to reach me...right here!
+👋 Hi, I’m @smithdesigner
 
-<!---
-smithdesigner/smithdesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m a Computer Science graduate student interested in backend and systems-oriented software engineering, with a focus on performance, reliability, and correctness.
+
+🌱 I’m currently pursuing my Master’s in Computer Science at DePaul University, where I’ve worked on systems programming, concurrency, and data structures.
+
+⚙️ I’m especially interested in Linux-based environments, backend infrastructure, and learning how large-scale systems are built and operated.
+
+🤝 I’m open to collaborating on hackathons and technical projects.
+
+🔧 Languages: Python, Java, C | Environment: Linux
+
+📫 How to reach me: right here on GitHub.
