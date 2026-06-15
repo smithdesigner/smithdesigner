@@ -8,6 +8,6 @@
 
 🤝 I’m open to collaborating on hackathons and technical projects.
 
-🔧 Languages: Python, Java, C | Environment: Linux
+🔧 Languages: Python, Java, C, Scala | Environment: Linux/Unix
 
 📫 How to reach me: right here on GitHub.
